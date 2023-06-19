@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @kiumarsR
 - 👀 I’m interested in backend development
 
-<!---
-kiumarsR/kiumarsR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -30,17 +26,17 @@ You can click the Preview link to take a look at your changes.
 
 ### About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from
+I am a PHP(Laravel) Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from
 Iran.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m working as a Software Engineer and contributing to backend develop for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time,I read tech articles and learn German.
 
 - :mailbox:How to reach
-  me: [![Linkedin Badge](https://img.shields.io/badge/-rezakarimi99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rezakarimi99/)
+  me: [![Linkedin Badge](https://img.shields.io/badge/-rezakarimi99-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/K/)
 
 ---
 
