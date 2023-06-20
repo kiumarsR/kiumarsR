@@ -69,7 +69,7 @@ Iran.
      
    </div>
    <div style="display:flex;"> 
-      <img style="margin:5px" src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kiumarsR&show_icons=true&theme=transparent)" width="600" height="200"/>
+      <img style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=kiumarsR&show_icons=true&theme=merko" width="600" height="200"/>
    </div>
    <div style="display:flex;"> 
       <img style="margin:5px" src="http://github-readme-streak-stats.herokuapp.com?user=kiumarsR&theme=vision-friendly-dark" width="600" height="200"/>
