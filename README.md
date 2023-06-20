@@ -65,7 +65,7 @@ Iran.
 
 <div align="center">
    <div style="display:flex;"> 
-      <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs?username=kiumarsR&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
+      <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiumarsR&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
      
    </div>
    <!--<div style="display:flex;"> 
