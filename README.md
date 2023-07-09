@@ -59,13 +59,13 @@ Iran.
 
 ### My Stats :
 
-<div align="center">
+<!--<div align="center">
    <div style="display:flex;"> 
       <img style="margin:5px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiumarsR&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
    </div>
    <!--<div style="display:flex;"> 
       <img style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=kiumarsR&show_icons=true&theme=merko" width="600" height="200"/>
-   </div>-->
+   </div>
    <div style="display:flex;"> 
       <img style="margin:5px" src="http://github-readme-streak-stats.herokuapp.com?user=kiumarsR&theme=vision-friendly-dark" width="600" height="200"/>
    </div>
@@ -73,4 +73,19 @@ Iran.
       <img style="margin:5px" src="https://github-readme-stats.vercel.app/api?username=kiumarsR&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
    </div>
 
+</div>-->
+
+<div align="center" style="display:flex;">
+   <div style="flex: 1; margin:5px;"> 
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiumarsR&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
+   </div>
+   <!--<div style="flex: 1; margin:5px;"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=kiumarsR&show_icons=true&theme=merko" width="600" height="200"/>
+   </div>-->
+   <div style="flex: 1; margin:5px;"> 
+      <img src="http://github-readme-streak-stats.herokuapp.com?user=kiumarsR&theme=vision-friendly-dark" width="600" height="200"/>
+   </div>
+   <div style="flex: 1; margin:5px;"> 
+      <img src="https://github-readme-stats.vercel.app/api?username=kiumarsR&show_icons=true&locale=en&layout=compact&theme=vision-friendly-dark" width="600" height="200"/>
+   </div>
 </div>
